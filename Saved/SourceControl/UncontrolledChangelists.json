@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/High/MI_sjzkfega.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Levels/Desert.umap",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/High/T_sjzkfega_4K_B.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/High/T_sjzkfega_4K_H.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/High/T_sjzkfega_4K_N.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/High/T_sjzkfega_4K_ORM.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Locomotion/LocomotionSpace1D.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Lean/Lean_left.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Lean/Lean.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/blueprints/BBC_Player_Stats.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/UI/WB_HUD.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Crouched/Crouched.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Crouched/Crouch.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Lean/MM_Run_Fwd.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Mannequins/Animations/Manny/Lean_left.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Walk_Stop.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Idle_Break.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Crouh_Walk.uasset",
+				"C:/Users/Thunder/Documents/Unreal Projects/Mini_RPG/Content/Characters/Rpg_character/Animations/Crouch_Idle.uasset"
+			]
+		}
+	]
+}
