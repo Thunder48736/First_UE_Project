@@ -1,26 +1,35 @@
-# 🎮 RPG Project UE5 – Wersja podstawowa
+# 🎮 RPG Project UE5 – Basic Version
+An early version of an RPG game built in Unreal Engine 5. The project focuses on basic character functions, a health system, and the user interface.
 
-Wczesna wersja gry RPG zbudowanej w Unreal Engine 5. Projekt skupia się na podstawowych funkcjach postaci, systemie zdrowia oraz interfejsie użytkownika.
-##  Zrealizowane funkcje
+Completed Features
+Player Character
 
-###  Postać gracza
-- Sterowanie w trybie third-person (ruch, skok, sprint).
-- Animacje ruchu postaci (chodzenie, bieganie).
-- Kamera przypięta do postaci z użyciem Spring Arm.
+Third-person control (movement, jump, sprint).
 
+Character movement animations (walking, running).
 
-### System zdrowia
-- Pasek zdrowia (`Health`) wyświetlany na ekranie.
-- Redukcja zdrowia po otrzymaniu obrażeń.
-- Brak implementacji systemu wytrzymałości (`Stamina`).
+Camera attached to the character using a Spring Arm.
 
-###  Interfejs użytkownika (UI)
-- Pasek zdrowia z dynamiczną aktualizacją.
-- Oddzielenie logiki UI od postaci za pomocą Blueprint Interfaces.
+Health System
 
-##  Możliwości dalszego rozwoju
+Health bar displayed on screen.
 
-- Dodanie systemu wytrzymałości (`Stamina`) i jego regeneracji.
-- Rozbudowa systemu walki o różne typy broni i animacje.
-- Dodanie przeciwników z AI 
-- Integracja systemu doświadczenia, poziomów i ekwipunku.
+Health reduction upon taking damage.
+
+No stamina system implemented yet.
+
+User Interface (UI)
+
+Health bar with dynamic updates.
+
+UI logic separated from the character using Blueprint Interfaces.
+
+Further Development Opportunities
+Adding a stamina system with regeneration.
+
+Expanding the combat system with different weapon types and animations.
+
+Adding AI-controlled enemies.
+
+Integrating experience, leveling, and inventory systems.
+
